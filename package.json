@@ -1,0 +1,23 @@
+{
+    "name": "adminpro-be-googlesignin",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "lite-server -c ls-config.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mmirotta/adminpro-BE-GoogleSignIn.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mmirotta/adminpro-BE-GoogleSignIn/issues"
+    },
+    "homepage": "https://github.com/mmirotta/adminpro-BE-GoogleSignIn#readme",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
